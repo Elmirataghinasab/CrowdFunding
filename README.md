@@ -65,7 +65,7 @@ This contract is designed for **Foundry** 🛠️, a powerful testing framework 
 1. Install **Foundry**: [Foundry Installation Guide](https://book.getfoundry.sh/)
 2. Clone the repo:  
    ```sh
-   git clone (https://github.com/Elmirataghinasab/CrowdFunding.git)
+   git clone https://github.com/Elmirataghinasab/CrowdFunding.git
    cd CrowdFunding
    ```
 3. Compile the contract:  
